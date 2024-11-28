@@ -85,7 +85,8 @@ A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. Pizza-
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Captura de tela 2024-11-28 173049](https://github.com/user-attachments/assets/5a083fba-e9fd-4cf5-9dd7-d254c450862e)
+
 
 # Referências
 
