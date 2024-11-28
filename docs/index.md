@@ -72,7 +72,8 @@ A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. Pizza-
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![WhatsApp Image 2024-11-28 at 14 41 39](https://github.com/user-attachments/assets/1bccb416-149b-4038-a543-9cbdf343647a)
+
 
 # Diagrama de Classes
 
