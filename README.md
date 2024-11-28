@@ -35,4 +35,37 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 # Releases
 
-Deverá ser publicado um release ao término de cada entrega do projeto.
+ ### Planejamento Inicial: (🔍 Descobrindo o Problema)
+
+- Mapeamento dos requisitos iniciais com as partes interessadas.
+- Elaboração do escopo do projeto e divisão em módulos principais.
+-  Definição da arquitetura de software (base para os módulos de atendimento e operações).
+-  Pesquisa de tecnologias adequadas.
+-  Criação de diagramas de fluxo de trabalho para as fábricas de pizza.
+
+###  Protótipo Funcional (🛠️ Construção do Básico)
+
+- Desenvolvimento de interfaces simples para entrada de pedidos e visualização de status.
+- Implementação inicial do sistema de geolocalização para identificar a unidade mais próxima.
+- Criação de um sistema básico de gestão de produção e despacho.
+- Testes iniciais do fluxo de pedidos com simulações locais.
+
+
+### Expansão e Melhorias (💻 Primeira Atualização)
+
+- Aplicativo de rastreamento para clientes com atualizações em tempo real.
+- Algoritmos otimizados para considerar trânsito e condições climáticas.
+- Implementação de IA para previsão de demanda e ajuste dinâmico de produção.
+- Monitoramento detalhado do desempenho de entregadores e fábricas.
+
+
+### Lançamento Oficial (🚀  Operação Real)
+Data de Lançamento: [07/02/2025]
+
+- Conexão com o sistema de pedidos via aplicativos e centrais telefônicas.
+- Garantia de entregas em até 30 minutos em áreas delimitadas.
+- Gestão automatizada de produção, controle de estoque e despacho.
+- Relatórios de desempenho detalhados para unidades e gestores.
+- Treinamento das equipes para uso do sistema.
+
+  
