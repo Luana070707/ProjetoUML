@@ -77,7 +77,8 @@ A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. Pizza-
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Captura de tela 2024-11-28 175101](https://github.com/user-attachments/assets/09d2a64f-915c-436f-935c-70cc1f8d02e9)
+
 
 # Diagrama de Estados
 
@@ -91,4 +92,17 @@ A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. Pizza-
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+### 1. Livros de Engenharia de Software:
+
+- Sommerville, Ian. "Engenharia de Software" - Excelente para entender metodologias de desenvolvimento, modelagem de sistemas e requisitos.
+- Pressman, Roger S. "Engenharia de Software: Uma Abordagem Profissional" - Referência para abordagens práticas e teóricas de engenharia de software.
+
+### 2. Arquitetura de Software:
+
+- Bass, Len et al. "Software Architecture in Practice" - Fundamental para criar um sistema escalável e modular.
+- Fowler, Martin. "Patterns of Enterprise Application Architecture" - Para padrões de design aplicados a sistemas corporativos.
+
+### 3. Sistemas Distribuídos e Comunicação:
+
+- Tanenbaum, Andrew S., Van Steen, Maarten. "Distributed Systems: Principles and Paradigms" - Essencial para entender como a comunicação entre sistemas centrais e lojas pode ser estruturada.
+
