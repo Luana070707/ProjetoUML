@@ -80,7 +80,8 @@ A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa. Pizza-
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Untitled diagram-2024-11-28-183310](https://github.com/user-attachments/assets/525665c7-61c3-48e4-b736-bc355e2cb0a4)
+
 
 # Diagrama de Implantação
 
