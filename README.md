@@ -2,48 +2,32 @@
 
 
 
-# Projeto:   Pizza-Express
+# Projeto: Sistema Inteligente de Gestão de Entregas - Pizza-Express🍕 
 
-# Grupo: Pizzaiolos
 
-# Descrição
+## Contextualização:
 
-A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em
-casa.
-Pizza-Express tem perdido recentemente 30% do rendimento de vendas
-devido a um problema em seu negócio da entrega. Atribuem este
-problema a seu concorrente principal que promoveu um programa que
-garante o serviço de entrega em 30 minutos, desde a entrada da
-ordem de serviço até a entrega na casa do cliente (delivery).
-Pizza-Express anuncia a entrega em uma hora.
-Pizza-Express usa atualmente computadores para armazenar as
-operações e as funções usuais do negócio, mas não auxiliam nas
-funções para processar a entrega dos pedidos dos seus clientes.
-Elonn Muske, o gerente de sistemas de informação é o encarregado
-para desenvolver uma aplicação do software para identificar a
-localização de lojas de pizza Pizza-Express mais próxima do cliente
-e para criar o sistema de software necessário para operá-las.
-O patrocinador deste projeto, a empresa Papa-Léguas Delivery,
-disse que o futuro da Pizza-Express depende deste projeto.
-A equipe deverá investigar uma opção para entregar a pizza em menos
-de 30 minutos.
-A sua idéia é montar lojas de pizza Pizza-Express que não teriam
-nenhum espaço de varejo, pois a sua função é somente receber
-ordens, preparar e entregar as pizzas.
-A loja deverá ser localizada o mais próximo do cliente receberá a
-ordem através de uma central, processará, e entregará a ordem
-dentro de 10 ou 15 minutos da entrada do pedido.
-Há dois projetos do desenvolvimento do software identificados
-aqui:
-primeiro é um sistema de software para o atendimento do pedido e
-para encontrar localização da fábrica da pizza mais próxima do
-cliente para fazer a entrega; e
-segundo é um sistema de software para suportar operações da fábrica
-de pizzas.
-Importante: Dá equipe se exigem profissionalismo e colaboração
-mútua.
+A Pizza-Express, uma rede consolidada de fast-food com 40 unidades, enfrenta um momento crítico em seu modelo de negócios. A perda de 30% nas vendas devido ao sucesso do principal concorrente, que oferece entregas em até 30 minutos, compromete o futuro da empresa. A abordagem atual da Pizza-Express, que anuncia um tempo de entrega de até uma hora, tem se mostrado obsoleta para atender às expectativas de rapidez dos consumidores modernos.
+Com sistemas de gestão que apenas cobrem operações básicas, a empresa reconhece a necessidade de uma transformação digital. O projeto visa não apenas recuperar participação de mercado, mas também redefinir os padrões de entrega rápida no setor de fast-food.
 
-# Documentação
+## Descrição do nosso Projeto📋: 
+
+
+Este projeto propõe o desenvolvimento de uma solução tecnológica avançada e integrada para otimizar os processos de entrega e produção. A proposta se divide em dois pilares principais:
+
+1.1. Sistema de Inteligência para Atendimento e Localização: Um módulo que otimiza o recebimento de pedidos e identifica, em tempo real, a unidade mais próxima do cliente..
+
+1.2. Sistema Operacional para Fábricas de Pizza: Um software robusto para gerenciar e automatizar as operações das fábricas dedicadas, com foco na produção ágil e entrega em tempo recorde.
+
+## Objetivos do Projeto💡:
+- Redução do Tempo de Entrega: Implementar um modelo que garanta entregas em até 30 minutos.
+- Eficiência Operacional: Automatizar processos de produção e despacho, eliminando gargalos logísticos.
+- Escalabilidade: Construir uma solução adaptável para futuras expansões.
+- Experiência do Cliente: Oferecer um atendimento impecável e rastreável em todas as etapas do pedido.
+
+
+
+## Documentação📝: 
 
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
 
