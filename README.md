@@ -33,7 +33,7 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 
 
-# Releases
+# Releases:
 
  ### Planejamento Inicial: (🔍 Descobrindo o Problema)
 
